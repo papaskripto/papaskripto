@@ -1,6 +1,6 @@
 #### I am building these:
 
-- [ai vids](https://github.com/papaskripto/aivids)
+- [ai vids](https://github.com/papaskripto/aivids) : web app platform for sharing ai created videos
 
 - [muziko](https://github.com/papaskripto/muziko)
 
