@@ -1,9 +1,9 @@
 #### I am building these:
 
-- [https://github.com/papaskripto/aivids](ai vids)
+- [ai vids](https://github.com/papaskripto/aivids)
 
-- [https://github.com/papaskripto/muziko](muziko)
+- [muziko](https://github.com/papaskripto/muziko)
 
-- [https://github.com/papaskripto/ytdb](the acoustic spy)
+- [the acoustic spy](https://github.com/papaskripto/ytdb)
 
-- [https://github.com/papaskripto/terminalcrow](terminal crow)
+- [terminal crow](https://github.com/papaskripto/terminalcrow)
