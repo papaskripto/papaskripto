@@ -1,3 +1,3 @@
 #### I am building these:
 
-- [https://papaskripto.github.io/zero-breakup-landing-page/](image compressor)
+- [Image Compressor](https://papaskripto.github.io/zero-breakup-landing-page/)
