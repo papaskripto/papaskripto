@@ -1,5 +1,5 @@
-# Geofrey OUMA
-Coder of platforms, Lover of Java, Vim addict.
+# Geofrey Ouma
+Coder of platforms, Lover of Java, Perpetual Learner, Vim addict.
 
 Current: Building projects for my portfolio (Looking for roles)
 
