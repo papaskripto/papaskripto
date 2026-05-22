@@ -19,7 +19,8 @@ I’m a Software Engineer and Architect who has spent the past 4+ years learning
 
 ## Contact
 
-Twitter/X: [@papaskripto](https://x.com/papaskripto)
+Twitter/X: [Geofrey Ouma](https://x.com/papaskripto)
+
 LinkedIn: [Geofrey Ouma](https://www.linkedin.com/in/geofreyouma/)
 
 ## Useful Repositories
