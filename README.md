@@ -12,6 +12,8 @@ I’m a Software Engineer and Architect who has spent the past 4+ years learning
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ## Contact
 
 Twitter/X: [Geofrey Ouma](https://x.com/papaskripto)
