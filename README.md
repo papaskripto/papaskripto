@@ -1,5 +1,5 @@
-## About Me
-I’m a Software Engineer and Architect who has spent the past 4+ years learning, building, and refining the craft of software engineering. I enjoy building systems and working closely with computers, but what excites me most is solving real human problems through technology. I’m currently seeking backend-focused software engineering opportunities, preferably in Java, while remaining open to other tech stacks and collaborations.
+## Hello!
+This is the GitHub for Geofrey Ouma, a Kenyan Software Engineer. I enjoy coding solutions to real problems.
 
 ## Development
 ### Languages
@@ -15,9 +15,6 @@ I’m a Software Engineer and Architect who has spent the past 4+ years learning
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ## Contact
+!Twitter/X: [Colonel Panic](https://x.com/papaskripto) | LinkedIn: [Geofrey Ouma](https://www.linkedin.com/in/geofreyouma/) | Bluesky: [Colonel Panic](https://bsky.app/profile/papaskripto.bsky.social)
 
-Twitter/X: [Geofrey Ouma](https://x.com/papaskripto)
-
-LinkedIn: [Geofrey Ouma](https://www.linkedin.com/in/geofreyouma/)
-
-## Useful Repositories
+## Useful Repositories:
