@@ -13,7 +13,7 @@ This is the GitHub for Geofrey Ouma, a Kenyan Software Engineer. I enjoy buildin
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) -->
-## Contact
+## FIND ME ON
 Twitter/X: [Colonel Panic](https://x.com/papaskripto) LinkedIn: [Geofrey Ouma](https://www.linkedin.com/in/geofreyouma/) Bluesky: [Colonel Panic](https://bsky.app/profile/papaskripto.bsky.social)
 
 <!-- ## Useful Repositories: -->
