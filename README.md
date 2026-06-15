@@ -1,7 +1,6 @@
 ## Hello!
 This is the GitHub for Geofrey Ouma, a Kenyan Software Engineer. I enjoy building code solutions to real problems.
-
-## Development
+<!-- ## Development
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,8 +12,8 @@ This is the GitHub for Geofrey Ouma, a Kenyan Software Engineer. I enjoy buildin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) -->
 ## Contact
 Twitter/X: [Colonel Panic](https://x.com/papaskripto) LinkedIn: [Geofrey Ouma](https://www.linkedin.com/in/geofreyouma/) Bluesky: [Colonel Panic](https://bsky.app/profile/papaskripto.bsky.social)
 
-## Useful Repositories:
+<!-- ## Useful Repositories: -->
