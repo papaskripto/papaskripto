@@ -15,5 +15,6 @@ Hello! This is the GitHub for Geofrey Ouma, a Kenyan Software Engineer. I enjoy 
 #### FIND ME ON
 Twitter/X: [Colonel Panic](https://x.com/papaskripto) LinkedIn: [Geofrey Ouma](https://www.linkedin.com/in/geofreyouma/) Bluesky: [Colonel Panic](https://bsky.app/profile/papaskripto.bsky.social)
 
-## Useful Repositories: -->
+## Useful Repositories:
 #### Currently building: [Babu Brian](https://babubrian.onrender.com/)
+ -->
