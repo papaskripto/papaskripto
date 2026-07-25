@@ -1,4 +1,4 @@
-Hello! This is the GitHub for Geoffrey OUMA, a Kenyan Software Nerd. I enjoy building code solutions to real problems.
+I build code solutions to real problems.
 <!-- ## Development
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
